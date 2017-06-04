@@ -1,0 +1,16 @@
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=="GBK">
+<body align="center">
+<h3>尊敬的 ${email} 用户,您好!</h3>
+ 您在 <a href='http://bblog.cc'>bblog.cc</a> 博客平台进行注册操作 <br>
+ <p><a href='${url}'>点击我，完成注册</a></p>
+ <br>
+ 如非本人操作，请忽视
+ 
+ <br>
+<div>
+<p><a href='http://bblog.cc'>bblog.cc</a>系统通知</p>
+</div>
+</body>
+ 
+</html>

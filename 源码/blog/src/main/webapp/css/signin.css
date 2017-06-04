@@ -1,0 +1,63 @@
+body {
+  padding-bottom: 40px;
+  background-color: #eee;
+  font-size: 14px;
+	color: #666;
+	font-family: "Microsoft YaHei", "微软雅黑", Helvetica, Tahoma, STXihei,
+		"华文细黑", STHeiti, "Helvetica Neue", Helvetica, Tahoma, "Droid Sans",
+		"wenquanyi micro hei", FreeSans, Arimo, Arial, SimSun, "宋体", Heiti,
+		"黑体", sans-serif;
+	background: #fff;
+	text-align: center;
+}
+
+.form-signin {
+  max-width: 350px;
+  min-width:280px;
+  padding: 0px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .form-signin-tip{
+  margin-bottom: 0px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control{
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 15px;
+}
+
+.form-group{
+	height: 45px;
+	font-size: 20px;
+	
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-control-feedback{
+	height: 45px;
+	font-size: 20px;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: 0px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 0px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.form-signin .form-signin-tip{
+  margin-right: 30px;
+}
