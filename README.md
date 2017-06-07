@@ -1,5 +1,6 @@
 # blog
-一个开源的博客系统，当前部署在bblog.cc
+一个开源的博客系统，当前部署在[http://bblog.cc/ ](http://bblog.cc/ "http://bblog.cc/ ")，采用spring ，spring mvc ，hibernate ，
+、mysql ， 自动构建工具maven ，bootstrap 等
 
 #### 登陆注册模块
 登陆注册使用的邮箱注册方式
